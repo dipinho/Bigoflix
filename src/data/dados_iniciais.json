@@ -1,0 +1,172 @@
+{
+  "categorias": [
+    {
+      "titulo": "Clipes",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Dê o play e aproveite a viagem =)"
+      },
+      "videos": [
+        {
+          "titulo": "Black Power!",
+          "url": "https://www.youtube.com/watch?v=Z-48u_uWMHY"
+        },
+        {
+          "titulo": "The Notorious B.I.G. - Hypnotize",
+          "url": "https://www.youtube.com/watch?v=glEiPXAYE-U"
+        },
+        {
+          "titulo": "Sabotage & Mano Brown - Love Song (A Maior Dor de Um Homem)",
+          "url": "https://www.youtube.com/watch?v=WWVkOOOn0I4"
+        },
+        {
+          "titulo": "Kendrick Lamar, SZA - All The Stars",
+          "url": "https://www.youtube.com/watch?v=JQbjS0_ZfJ0"
+        },
+        {
+          "titulo": "I Am - Jorja Smith (Black Panther: The Album)",
+          "url": "https://www.youtube.com/watch?v=PhP6uWJhWdA"
+        },
+        {
+          "titulo": "SiR - Hair Down (Official Video) ft. Kendrick Lamar",
+          "url": "https://www.youtube.com/watch?v=BQqEMLOOMCo"
+        }       
+      ]
+    },
+    {
+      "titulo": "Negros na TI",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Nós na Tecnologia da Informação"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Como ORGANIZO o meu TEMPO para fazer MUITAS ATIVIDADES? + Por que faço tantas coisas?",
+          "url": "https://www.youtube.com/watch?v=KQo2X6Xrwus"
+        },
+        {
+          "titulo": "Meu TESTE PRÁTICO em NodeJS para Vaga de Programação",
+          "url": "https://www.youtube.com/watch?v=rVwVMkHiBUM"
+        },
+        {
+          "titulo": "QuebraDev - BrazilJS 2019",
+          "url": "https://www.youtube.com/watch?v=zUMdZAZ-CE8"
+        }
+      ]
+    },
+    {
+      "titulo": "Podcast",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Podcasts e canais que mais gostamos"
+      },
+      "videos": [
+        {
+          "titulo": "Rael e Capim-Cidreira na Quebrada (Entrevista Exclusiva) - Quebrada Pod",
+          "url": "https://www.youtube.com/watch?v=uwpovuB3FpA"
+        },
+        {
+          "titulo": "O que a história revela sobre Zumbi de Palmares",
+          "url": "https://www.youtube.com/watch?v=3pUyMvMGI6c"
+        },
+        {
+          "titulo": "PARASITA - QUEM é o PARASITA de QUEM? - Análise Completa",
+          "url": "https://www.youtube.com/watch?v=Ohk-9F0NL-0"
+        },
+        {
+          "titulo": "Negros INFLUENCIADORES - Alê Garcia (Negro da Semana) - Canal Preto",
+          "url": "https://www.youtube.com/watch?v=YzGoKGR9DMY"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      "link_extra": {
+        "text": "Filmes Must see"
+      },
+      "videos": [
+        {
+          "titulo": "Corra! - Trailer Oficial (Universal Pictures) HD",
+          "url": "https://www.youtube.com/watch?v=mDGV5UucTu8"
+        },
+        {
+          "titulo": "Marvel Studios' Black Panther - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=xjDjIWPwcPU"
+        },
+        {
+          "titulo": "Django Unchained Official Trailer",
+          "url": "https://www.youtube.com/watch?v=0fUCuvNlOCg"
+        },
+        {
+          "titulo": "Pulp Fiction | 'Big Kahuna Burger' (HD) ",
+          "url": "https://www.youtube.com/watch?v=Mnb_3ibUp38"
+        }
+      ]
+    },
+    {
+      "titulo": "Livros",
+      "cor": "red",
+      "link_extra": {
+        "text": "Nossa indicação de livros"
+      },
+      "videos": [
+        {
+          "titulo": "Final Fantasy 7",
+          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+        },
+        {
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        },
+        {
+          "titulo": "God of War 4",
+          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        },
+        {
+          "titulo": "Resident Evil 8",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+        },
+        {
+          "titulo": "Pokémon Let's Go Pikachu/Eevee",
+          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        }
+      ]
+    },
+    {
+      "titulo": "Aprendendo a aprender tecnologia",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre aprendizado na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Como estudar melhor?",
+          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+        },
+        {
+          "titulo": "Faculdade",
+          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+        },
+        {
+          "titulo": "Frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        },
+        {
+          "titulo": "A mágica do Aprendizado",
+          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+        },
+        {
+          "titulo": "Como aprender a programar?",
+          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    }
+  ]
+}
